@@ -2,4 +2,4 @@
 Claude Code for code dummies like me.
 
 ### 1 Setup on Mac
-111
+(Writing...)  
